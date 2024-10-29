@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Kaiky",
+        "email": "kaiky@macedo.com.br" ,
+        "password": "kaiky"
+    },
+    {
+        "name": "Aluno",
+        "email": "aluno@senai.com.br" ,
+        "password": "aluno"
+    }
+]
